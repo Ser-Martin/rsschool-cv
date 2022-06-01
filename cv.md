@@ -24,11 +24,11 @@ I am always ready to learn something new and develop my skills, and therefore I 
 ### Education:
 * **National Technical University «Kharkiv Polytechnic Institute»** Automation and computer-integrated technologies
 * **Courses:**
-    + Web design (UI/UX) [Lemon.School](https://www.linkedin.com/in/ser-martin/) 
-    + Responsive web design [freeCodeCamp](https://www.linkedin.com/in/ser-martin/)
-    + JavaScript Algorithms and Data Structures [freeCodeCamp](https://www.linkedin.com/in/ser-martin/) 
-    + JavaScript Manual *(in progress)* [learnjavascript.ru]() 
-    + JavaScript/Front-end. Stage 0 *(in progress)* [RS School]() 
+    + Web design (UI/UX) [Lemon.School](https://lemon.school/) 
+    + Responsive web design [freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/)
+    + JavaScript Algorithms and Data Structures [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) 
+    + JavaScript Manual *(in progress)* [learnjavascript.ru](https://learn.javascript.ru/) 
+    + JavaScript/Front-end. Stage 0 *(in progress)* [RS School](https://rs.school/) 
 ---
 ### Languages:
 * **Ukrainian** - native

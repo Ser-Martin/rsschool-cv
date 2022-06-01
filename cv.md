@@ -9,9 +9,10 @@
 ### About me
 I am a person who cannot imagine life without the possibility of creating something, and it does not matter for me in what particular area - hobby or work. For the last five years I have been working as an automated control system engineer, namely designing automated control systems, writing software for PLCs and HMIs.
 
-At the end of 2021, I began to study Front-end technologies and discovered a completely new world that embodied all the possibilities that I would like to use in my work.
+At the end of 2021, I began to study Front-end technologies and discovered a completely new world that embodied all the possibilities that I would like to use in my work. 
 
 I am always ready to learn something new and develop my skills, and therefore I devote a lot of time to working on myself.
+
 ---
 ### Skills:
 * HTML5

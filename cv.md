@@ -21,6 +21,21 @@ I am always ready to learn something new and develop my skills, and therefore I 
 * Git, GitHub
 * Figma
 * Photoshop, Illustrator
+
+---
+### Code example: 
+**Who likes it? KATA from CODEWARS:** _You probably know the "like" system from Facebook and other pages. People can "like" blog posts, pictures or other items. We want to create the text that should be displayed next to such an item._
+```
+function likes(names) {
+  switch(names.length) {
+    case 0: return 'no one likes this';
+    case 1: return `${names[0]} likes this`;
+    case 2: return `${names[0]} and ${names[1]} like this`;
+    case 3: return `${names[0]}, ${names[1]} and ${names[2]} like this`;
+    default: return `${names[0]}, ${names[1]} and ${names.length-2} others like this`;
+  }
+}
+```
 ---
 ### Education:
 * **National Technical University «Kharkiv Polytechnic Institute»** Automation and computer-integrated technologies
